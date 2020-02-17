@@ -17,7 +17,7 @@
 
 ##### 1.1、Home
 
-![](E:\Github\wordpress\9.png)
+![](E:\wordpress\wordpress\9.png)
 
 ###### 1.1.1Welcome to WordPress!
 
@@ -69,71 +69,71 @@
 
 ​	包含站点、插件、主题的升级信息。
 
-![](E:\Github\wordpress\11.png)
+![](E:\wordpress\wordpress\11.png)
 
 #### 2、Posts 帖子
 
 ##### 2.1、All Posts
 
-![](E:\Github\wordpress\12.png)
+![](E:\wordpress\wordpress\12.png)
 
 ##### 2.2 Add New
 
-![](E:\Github\wordpress\13.png)
+![](E:\wordpress\wordpress\13.png)
 
 ##### 2.3、Categories
 
-![](E:\Github\wordpress\14.png)
+![](E:\wordpress\wordpress\14.png)
 
 ##### 2.4、Tags
 
-![](E:\Github\wordpress\15.png)
+![](E:\wordpress\wordpress\15.png)
 
 #### 3、Media 媒体
 
 ##### 3.1、Library
 
-![](E:\Github\wordpress\16.png)
+![](E:\wordpress\wordpress\16.png)
 
 ##### 3.2、Add New
 
-![](E:\Github\wordpress\17.png)
+![](E:\wordpress\wordpress\17.png)
 
 #### 4、Pages 页面
 
 ##### 4.1、All Pages
 
-![](E:\Github\wordpress\18.png)
+![](E:\wordpress\wordpress\18.png)
 
 ##### 4.2、Add New
 
-![](E:\Github\wordpress\19.png)
+![](E:\wordpress\wordpress\19.png)
 
 #### 5、Comments 评论
 
-![](E:\Github\wordpress\20.png)
+![](E:\wordpress\wordpress\20.png)
 
 #### 6、Appearance 外观
 
 ##### 6.1、Themes
 
-![](E:\Github\wordpress\21.png)
+![](E:\wordpress\wordpress\21.png)
 
 ##### 6.2、Customize
 
-![](E:\Github\wordpress\22.png)
+![](E:\wordpress\wordpress\22.png)
 
 ##### 6.3、Widgests
 
-![](E:\Github\wordpress\23.png)
+![](E:\wordpress\wordpress\23.png)
 
 ##### 6.4、Menus
 
-![](E:\Github\wordpress\24.png)
+![](E:\wordpress\wordpress\24.png)
 
 ##### 6.5、Background
 
-![](E:\Github\wordpress\25.png)
+![](E:\wordpress\wordpress\25.png)
 
 ##### 6.6、Theme Editor
 
