@@ -17,7 +17,7 @@
 
 ##### 1.1、Home
 
-![](E:\wordpress\wordpress\9.png)
+![](\wordpress\9.png)
 
 ###### 1.1.1Welcome to WordPress!
 
@@ -133,25 +133,25 @@
 
 ##### 6.5、Background
 
-![](E:\wordpress\wordpress\25.png)
+![](.\wordpress\25.png)
 
 ##### 6.6、Theme Editor
 
-![](E:\Github\wordpress\26.png)
+![](\wordpress\26.png)
 
 #### 7、Plugins 插件
 
 ##### 7.1、Installed Plugins
 
-![](E:\Github\wordpress\27.png)
+![](\wordpress\27.png)
 
 ##### 7.2、Add New
 
-![](E:\Github\wordpress\28.png)
+![](\wordpress\28.png)
 
 ##### 7.3、Plugin Editor
 
-![](E:\Github\wordpress\29.png)
+![](\wordpress\29.png)
 
 #### 8、Users 用户
 
