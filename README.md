@@ -17,7 +17,7 @@
 
 ##### 1.1、Home
 
-![](\wordpress\9.png)
+![](.\wordpress\9.png)
 
 ###### 1.1.1Welcome to WordPress!
 
